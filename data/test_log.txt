@@ -1,0 +1,16 @@
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 ERROR-Log error message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 CRITICAL-Log critical message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 ERROR-Log error message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 ERROR-Log error message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 CRITICAL-Log critical message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 ERROR-Log error message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:15:58 ERROR-Log error message
+2025-01-21 12:15:58 WARNING-Log warning message
+2025-01-21 12:22:45 ERROR-Division by Zero
